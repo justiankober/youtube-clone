@@ -215,3 +215,15 @@ body {
   position: relative;
   margin-right: 10rem;
 }
+
+.side-menu {
+  display: grid;
+  grid-template-rows: repeat(4, auto);
+  width: 300px;
+  height: 300px;
+  align-items: center;
+  gap: 1.5rem;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem;
+}

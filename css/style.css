@@ -170,7 +170,7 @@ body {
   display: flex;
   justify-content: center;
   flex-grow: 1;
-  margin: 0 2rem 0 4rem;
+  margin: 0 0rem 0 0rem;
 }
 
 .search-input {
@@ -212,5 +212,6 @@ body {
   background-color: #aaa;
 }
 .mic {
-  margin: 0 2rem 0 -4rem;
+  position: relative;
+  margin-right: 10rem;
 }

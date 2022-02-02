@@ -1,3 +1,7 @@
 # Youtube Clone
 
-This is a Youtube Clone Web Application being built as an practice assignment.
+> _A Youtube Clone designed with html &_
+>
+> ![Final Result](./images/youtubeclone.png)
+>
+> _Reference sources:_ [mdn Developer-mozilla](https://developer.mozilla.org/)

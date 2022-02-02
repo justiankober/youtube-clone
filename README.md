@@ -1,6 +1,6 @@
 ## YouTube CLone
 
-**[Test this app yourself](github.io)**
+**[Test this app yourself](justiankober.github.io/youtube-clone/)**
 
 ---
 
@@ -51,8 +51,8 @@ Just look @ the link and see the result.
 ### Contact
 
 Mail: <Justian.Kober@icloud.com><br>
-GitHub: [justiankober](https://github.com/)<br>
-LinkedIn: [justiankober](#)
+GitHub: [justiankober](https://github.com/justiankober)<br>
+LinkedIn: [justiankober](https://www.linkedin.com/in/justian-kober-8a1281132/)
 
 ---
 

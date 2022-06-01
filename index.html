@@ -37,8 +37,12 @@
         <a href="#">
           <img class="mic" src="./svgs/mic.svg" alt="Mic" />
         </a>
-        <a href="#">
-          <img src="./svgs/video-plus.svg" alt="Upload Video" />
+
+        <a class="toggle">
+          <label class="switch">
+            <input type="checkbox" onchange="theme()" name="mood" id="light-dark" />
+            <span class="slider"></span>
+          </label>
         </a>
         <a href="#">
           <img src="./svgs/apps.svg" alt="Apps" />
@@ -87,7 +91,7 @@
         </form>
 
       </header>
-      <!-- Playing around with 2nd menu -->
+      <!-- Video Section -->
     <div class="videos">
       <section class="video-section">
         <h4 class="video-section-title">Uploads</h4>
@@ -395,5 +399,7 @@
         </article>
       </section>
     </div>
+        <!-- Custom scripts, edit above this line -->
+        <script src="index.js"></script>
   </body>
 </html>

@@ -58,7 +58,7 @@ LinkedIn: [justiankober](https://www.linkedin.com/in/justian-kober-8a1281132/)
 
 ### Used Tools
 
-- [icons](https://)
+- [icons](https://unpkg.com)
 - [Canva](https://www.canva.com/)
 - [npm](https://www.npmjs.com/)
 - [Google Fonts](https://fonts.google.com/)
